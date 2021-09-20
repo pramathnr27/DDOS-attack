@@ -3,7 +3,7 @@
 
 # python 3.3.2+ Powerful DDos Script v.1
 # Pramath Naik
-#Do this for fun it's only for educational purpose
+#Do this for fun it's only for educational purpose.
 
 
 from queue import Queue
