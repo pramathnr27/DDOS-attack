@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 # python 3.3.2+ Powerful DDos Script v.1
-# Pramath Naik
-#Do this for fun it's only for educational purpose.
+#  Pramath Naik
+#Do this just for fun it's only for educational purpose.
 
 
 from queue import Queue
