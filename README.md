@@ -3,7 +3,7 @@ Powerful DDOS Attack Script Python
 
 It's only for Educational Purpose. It can cause serious damage
 
-How it Works
+# Install
 
 Open Your Terminal 
 
@@ -28,3 +28,4 @@ ls
 chmod +x*
 
 python ddos.py -s [ ip address ] -t 135
+
