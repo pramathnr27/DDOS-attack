@@ -5,27 +5,28 @@ It's only for Educational Purpose. It can cause serious damage
 
 # Install
 
-Open Your Terminal 
+#Open Your Terminal 
 
-apt update
 
-apt upgrade
+* apt update
 
-pkg install python
+* apt upgrade
 
-pkg install python2
+* pkg install python
 
-apt install git
+* pkg install python2
 
-apt install  dnsustils
+* apt install git
 
-git clone https://github.com/pramathnr27/DDOS-attack
+* apt install  dnsustils
 
-cd DDOS-attack
+* git clone https://github.com/pramathnr27/DDOS-attack
 
-ls 
+* cd DDOS-attack
 
-chmod +x*
+* ls 
+
+* chmod +x*
 
 python ddos.py -s [ ip address ] -t 135
 
