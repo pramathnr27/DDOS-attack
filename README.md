@@ -1,7 +1,7 @@
 # DDOS-attack
 Powerful DDOS Attack Script Python
 
-It's only for Educational Purpose. It can cause serious damage
+It's only for educational purpose. It can cause serious damage.
 
 # Install
 
@@ -28,5 +28,5 @@ It's only for Educational Purpose. It can cause serious damage
 
 * chmod +x*
 
-python ddos.py -s [ ip address ] -t 135
+* python ddos.py -s [ ip address ] -t 135
 
